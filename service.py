@@ -2,6 +2,7 @@ from zmq.eventloop.zmqstream import ZMQStream
 import functools
 import json
 import logging
+# import msgpack
 import os
 import tornado
 import tornado.ioloop
